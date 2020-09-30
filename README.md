@@ -1,2 +1,3 @@
 # Reinforcement_Learning
-Reinforcement Learning -  10x10 grid game using Deep Q - Learning and Q - table. 
+Reinforcement Learning -  
+1. 10x10 Grid-Game Using Deep Q - Learning and Q - table. 
